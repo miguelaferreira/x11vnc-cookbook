@@ -4,6 +4,6 @@ maintainer_email 'jgoulah@gmail.com'
 license          'BSD'
 description      'Installs/Configures x11vnc'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.0.3'
+version          '0.0.3001'
 
 supports         'centos'
